@@ -1,0 +1,1 @@
+Slides des sessions de la formation "Your Way Into Open Source" organisée conjointement par Mozilla Algérie et Open Minds Club au premier semestre 2014 à l'USTHB.
